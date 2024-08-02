@@ -2061,6 +2061,7 @@ flex-direction: column;
 .desktop-1{
   width: 425px;
   height: 611rem;
+  position: relative;
 }
 
 .frame-6{

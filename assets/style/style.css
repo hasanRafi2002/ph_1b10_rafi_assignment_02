@@ -2451,14 +2451,16 @@ display: none;
   width: 17.9375rem;
 }
 
-
+.frame-3{
+  bottom: 4rem;
+}
 
 
 /*  */
 
 .all-right-reserved-fitness-2024 {
   left: calc(50% - 9.9375rem);
-  top: 69.0625rem;
+  top: 71rem;
 }
 
 

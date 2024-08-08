@@ -1720,8 +1720,8 @@ menu, ol, ul {
   display: flex;
   flex-direction: column;
   gap: 2.4375rem;
-  align-items: flex-start;
-  justify-content: flex-start;
+  align-items: center;
+  justify-content: center;
   flex-shrink: 0;
   position: relative;
 }

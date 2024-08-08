@@ -1610,6 +1610,15 @@ menu, ol, ul {
   position: relative;
   overflow: hidden;
 }
+
+.horizontal{
+  border: .5px solid rgba(168, 165, 165, 0.817);
+  position: relative;
+  width: 200%;
+  right: 50%;
+  bottom: 2rem;
+}
+
 .all-right-reserved-fitness-2024 {
   color: rgba(255, 255, 255, 0.5);
   text-align: left;

@@ -1745,6 +1745,13 @@ menu, ol, ul {
   width: 10.3125rem;
   position: relative;
 }
+
+.frame-58{
+  position: relative;
+  bottom: .6rem;
+}
+
+
 .get-started3 {
   color: #ffffff;
   text-align: left;

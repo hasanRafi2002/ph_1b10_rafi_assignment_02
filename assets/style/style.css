@@ -190,6 +190,7 @@ menu, ol, ul {
 
 /* --------- */
 .header-box{
+  background-image: linear-gradient(#000000 , #4a4a4a, #000000);
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -2258,10 +2259,9 @@ menu, ol, ul {
     display: flex;
     flex-direction: column;
     position: relative;
-    left: 5%;
 }
 .header-text-items, .header-image-items{
-    padding: 0 ;
+    padding: 0 2rem ;
 }
     
     /*  */
@@ -2544,9 +2544,46 @@ menu, ol, ul {
     
     }
     
-    /* --------------------- */
-    
-    
-    
-    
-    /* ------- */
+/* --------------------- */
+/* ----------------- */
+@media screen and (min-width:1450px){
+.desktop-1{
+  width: 100vw;
+}
+
+.rectangle-17 {
+  left: 125rem;
+}
+
+._350 {
+  left: 130rem;
+}
+.video-tutorial {
+  left: 130rem;
+}
+.group-21 {
+  left: 126rem;
+}
+
+.rectangle-13 {
+  left: 145rem;
+}
+._500 {
+  left: 147rem;
+}
+.free-workout-videos {
+  left:  147rem;
+}
+
+.frame-402{
+  left: 58%;
+}
+
+.frame-60, .main-box-2, .main-box-3, .main-box-5{
+  left: 27%;
+}
+
+}
+
+
+/* ------- */
